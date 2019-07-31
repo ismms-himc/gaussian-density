@@ -3,7 +3,6 @@ scipy==1.1.0
 voila==0.1.6
 numpy
 pandas
-scipy
 scikit-learn
 ipywidgets
 matplotlib
